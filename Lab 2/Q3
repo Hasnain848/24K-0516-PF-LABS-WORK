@@ -1,1 +1,9 @@
-
+1.  START 
+2.  // Input three variables A,B AND C
+3.  INPUT A
+4.  INPUT B
+5.  INPUT C
+6.  // Process step
+7.  CALCULATE subtract= A-(-B)-(-C)
+8.  PRINT subtract
+9.  END 
