@@ -1,1 +1,26 @@
-
+Q3. Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+1. Ask the user to enter the Number1
+2. store the Number1
+3. Ask the user to enter the operator(+,-,*,/,%).
+4. Read the operator.
+5. Ask the user to enter the Number2
+6. Store the Number 2
+7. If the operator is equal to + (operator == +) then
+8. calcultate the result= Number1 +Number2
+9. Display the result
+10.Else IF the operator is equal to - (operator == -) then
+11.calculate the result= Number1 - Number2
+12.Display the result
+13.Else If the operator is equal to * (operator== *) then
+14.calculate the result = Number1 * Number2
+15.Display the result
+16.Else If the operator is equal to / (operator== /) and Number2 is not equal to 0(Number2 != 0)then 
+17.calculate the result = Number1 / Number2
+18.Display the result
+19.Else Display error
+20.End if
+21.Else if the operator is equal to % (operator== %) and Number2 is not equal to 0(Number2 != 0)then 
+22.calculate the result = Number1 % Number2
+23.Display the result
+24.Else Display error
+25.END
