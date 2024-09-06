@@ -1,1 +1,8 @@
+Q.2 Implement an algorithm where the user enters a number, and an appropriate month is displayed.
 
+1. Ask the user to enter the number between 1 to 12
+2. Ensure the entered number is with in the range of 1 to 12.
+4. if the number is not in a valid range then inform the user to enter the valid number 
+3. Define a list where the index corresponds to the month number. For example, index 0 corresponds to January, index 1 to February, and so on.
+4. Use the list to find the month corresponding to the entered number. Since list indices start from 0, subtract 1 from the entered number to get the correct index.
+5. Print the month that correspond the number
