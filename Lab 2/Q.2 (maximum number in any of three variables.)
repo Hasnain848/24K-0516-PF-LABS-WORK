@@ -1,1 +1,13 @@
-
+1.  START
+2.  //input three numbers Num1,Num2,Num3
+3.  INPUT Num1
+4.  INPUT Num2
+5.  INPUT Num3
+6.  // Conditional statements
+7.  IF Num1 > Num2 and Num1 > Num3
+8.    PRINT Num1
+9. ELSE IF Num2 > Num1 and Num2 > Num3
+10.         PRINT Num2
+11. ELSE 
+12.     PRINT Num3
+13. END
