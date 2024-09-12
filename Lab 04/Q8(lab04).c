@@ -6,7 +6,7 @@ int main ()
   if (n > 0)
      if (n>=1 && n<=9)
         {switch (n)
-         {case 1 :
+         {        case 1 :
 		     printf("One\n");
 			break ;
 		  case 2 :
