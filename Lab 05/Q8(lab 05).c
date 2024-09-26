@@ -18,4 +18,4 @@ int main()
 	:ar%10==9?'I'
 	:'X';
 	printf(" registeration year :20%d \n semester :%d \n Section :%c",registertion_no,semester,section);
-}ssssssss
+}
