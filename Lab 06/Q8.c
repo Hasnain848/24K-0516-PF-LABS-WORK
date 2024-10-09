@@ -10,7 +10,7 @@ int main(){
 		else if(row==4)
 		{printf("%c ",1+asci1);
 		 asci1++;}
-		 else if (row==1&&colom==1)//||row==3 || colom==1||||row==3||colom==3)
+		 else if (row==1&&colom==1)
 		 printf("  %c",67);
 		 else if(row==1&&colom==3)
 	     printf("   %c",70);
