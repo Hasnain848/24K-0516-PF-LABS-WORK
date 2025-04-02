@@ -1,6 +1,5 @@
 # 24K-0516-PF-LABS-WORK
 ## Programming Fundamentals Codes Practices By Sir Muhammad Monis
-![my-passport-photo (1)-removebg-preview_146x188](https://github.com/user-attachments/assets/7b039ddf-6f13-4f5f-bb0c-0bfb560557bb)
 #### Name: M Hasnain Siddiqui
 #### Roll no: 24K-0516
 ## Introduction
